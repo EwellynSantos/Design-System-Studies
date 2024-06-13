@@ -10,3 +10,5 @@
 * [Projetando sombras](projetando-sombras.md)
 * [Design Tokens](design-tokens.md)
 * [Registrando os design tokens](registrando-os-design-tokens.md)
+* [Mapeando Componentes](mapeando-componentes.md)
+* [Criando Componentes](criando-componentes.md)
