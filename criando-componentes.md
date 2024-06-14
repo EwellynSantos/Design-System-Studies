@@ -11,3 +11,5 @@ Segue abaixo um exemplo de botão com algumas variação enquanto realizamos aç
 <figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
