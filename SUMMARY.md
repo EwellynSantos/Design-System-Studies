@@ -12,3 +12,4 @@
 * [Registrando os design tokens](registrando-os-design-tokens.md)
 * [Mapeando Componentes](mapeando-componentes.md)
 * [Criando Componentes](criando-componentes.md)
+* [Documentação](documentacao.md)
