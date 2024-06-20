@@ -10,4 +10,4 @@ Após analisar e buscar por referencias, podemos separar alguns design para usar
 \
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>

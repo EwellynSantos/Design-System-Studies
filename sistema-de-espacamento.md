@@ -4,7 +4,7 @@ Os espaçamentos de todos elementos de uma tela devem se harmônicos, e uma téc
 
 
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Utilizados o 8-pt grid porque  os tamanhos de resoluções de telas mais comuns são divisíveis por 8, garantindo que haja uma proporcionalidade boa. É comum também utilizarem múltiplos de 4.
 
@@ -12,4 +12,4 @@ Utilizados o 8-pt grid porque  os tamanhos de resoluções de telas mais comuns 
 
 Exemplo de coleção de espaçamento que podemos definir manualmente no figma:
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>

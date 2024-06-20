@@ -8,7 +8,7 @@ nele definiremos o tamanho base da fonte e a partir dela será criada a escala, 
 \
 
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

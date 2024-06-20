@@ -14,3 +14,7 @@
 * [Criando Componentes](criando-componentes.md)
 * [Documentação](documentacao.md)
 * [Estruturando seu design system](estruturando-seu-design-system.md)
+* [Iniciando a documentação](iniciando-a-documentacao.md)
+* [Estilizando a Home do DS](estilizando-a-home-do-ds.md)
+* [Conectando o Figma ao DS](conectando-o-figma-ao-ds.md)
+* [O Get Started do seu DS](o-get-started-do-seu-ds.md)

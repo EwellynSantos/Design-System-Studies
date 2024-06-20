@@ -12,4 +12,4 @@ Segue abaixo um exemplo de botão com algumas variação enquanto realizamos aç
 
 </div>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
