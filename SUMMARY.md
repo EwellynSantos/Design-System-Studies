@@ -13,3 +13,4 @@
 * [Mapeando Componentes](mapeando-componentes.md)
 * [Criando Componentes](criando-componentes.md)
 * [Documentação](documentacao.md)
+* [Estruturando seu design system](estruturando-seu-design-system.md)
