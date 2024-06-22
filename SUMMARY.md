@@ -18,4 +18,6 @@
 * [Estilizando a Home do DS](estilizando-a-home-do-ds.md)
 * [Conectando o Figma ao DS](conectando-o-figma-ao-ds.md)
 * [O Get Started do seu DS](o-get-started-do-seu-ds.md)
-* [Estrutura inicial do DS](estrutura-inicial-do-ds.md)
+* [Foundation](foundation.md)
+* [Spacing](spacing.md)
+* [Typography](typography.md)

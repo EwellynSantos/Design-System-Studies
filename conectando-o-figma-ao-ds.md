@@ -4,7 +4,7 @@ Segue abaixo os passos para configurar o figma e compartilhar docs do figma com 
 
 passo 1: in em uploads e clicar em Add a design upload
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: escolher a ferramenta
 
