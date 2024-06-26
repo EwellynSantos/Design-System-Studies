@@ -9,4 +9,4 @@ Uma maneira de identificar, é entre title, headline e body, conforme abaixo:\
 
 Mas, para um padrão, é comum utilizar as medidas de roupas, como xl, lg, md, sm e xs.\
 \
-![](<.gitbook/assets/image (8) (1).png>)
+![](<.gitbook/assets/image (8) (1) (1).png>)

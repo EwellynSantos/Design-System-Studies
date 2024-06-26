@@ -4,7 +4,7 @@ Primeiro crie uma conta na Zeroheight(caso nao tenha uma)
 
 Após isso, iremos inicar nossa documentação inserindo o nome e a logo da marca
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 Após isso, podemos iniciar do zero nosso DS.
 

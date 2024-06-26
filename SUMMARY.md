@@ -21,3 +21,8 @@
 * [Foundation](foundation.md)
 * [Spacing](spacing.md)
 * [Typography](typography.md)
+* [Elevation](elevation.md)
+* [Components](components.md)
+* [Button](button.md)
+* [Compartilhamento do DS](compartilhamento-do-ds.md)
+* [Como manter o Design System](como-manter-o-design-system.md)
