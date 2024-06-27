@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Inventário de design](README.md)
+* [Page 1](README.md)
+* [Inventário de design](<README (1).md>)
 * [Criando paleta de cores](criando-paleta-de-cores.md)
 * [Acessibilidade](acessibilidade.md)
 * [Escalas Tipográficas](escalas-tipograficas.md)

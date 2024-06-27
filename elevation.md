@@ -17,7 +17,7 @@ Em overview teremos um conteúdo sobre o que é elevation e os tipos, já em acc
 
 Para adicionar os tipos visuais de elevation, devemos clicar no + > em design upload > e escolher a opção Effect styles
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

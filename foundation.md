@@ -12,7 +12,7 @@ Brand Colors:
 
 Além dos tópicos abaixo, também podemos adicionar as cores da marca, caso já tenha feito o upload do projeto no Zeroheight.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para adicionar as cores basta apertar no mais e selecionar a opção abaixo:\
 ![](<.gitbook/assets/image (2) (1).png>)
