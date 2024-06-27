@@ -1,4 +1,4 @@
-# Page 1
+# Design System
 
 O Design System é um sistema unificado que inclui elementos, componentes, regras e princípios para guiar o desenvolvimento de interfaces de uma empresa, proporcionando consistência e padronização nos produtos digitais. Serve como uma ferramenta de suporte para designers e desenvolvedores, garantindo uma aparência consistente e reconhecível dos produtos. Sem ele, podem ocorrer retrabalhos e inconsistências, resultando em perda de tempo. Nathan Curtis descreve o Design System como "um produto servindo outros produtos", destacando sua importância em manter a consistência e agilizar o trabalho das equipes de Design e Tecnologia. É crucial para empresas que buscam maior integração de ideias no desenvolvimento de produtos.
 
@@ -34,6 +34,8 @@ O Design System possui 5 elementos básicos que não podem faltar. São eles:
 O _Atomic Design_ é uma metodologia desenvolvida por Brad Frost em 2013 para a criação de _design systems_. Ela é composta por cinco estágios, trabalhando juntos para criar interfaces de maneira simples e hierárquica. Os cinco estágios são: átomos, moléculas, organismos, _templates_ (ou modelos) e páginas.
 
 Nesse modelo, os átomos são como os botões e links de um _design system_, e as moléculas, quando agrupadas, formam os organismos que dão origem aos _templates_. Esses, por sua vez, formam as páginas.
+
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
